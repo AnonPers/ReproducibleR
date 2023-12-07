@@ -6,4 +6,4 @@ Within this repository, you will find an R project of an analysis of the PalmerP
 - **functions folder** -> containing the functions required for the PenguinProject for use within analysis
 - **data_raw folder** -> containing a csv of the raw PalmerPenguins data for use within analysis
 - **data_clean folder** -> containing the csv of the clean PalmerPenguins data for use within analysis
-- **figures folder** -> containing saved figures of the plot produced for use within analysis
+- **figures folder** -> containing saved figures of the plot produced from analysis

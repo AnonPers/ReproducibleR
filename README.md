@@ -1,4 +1,4 @@
-# ReproducibleR
+# Reproducible figures README
 
 Within this repository, you will find an R project of an analysis of the PalmerPenguins dataset that I did for Question 2 of the Reproducible figures assignment. You will also find within this repository : 
 
